@@ -1,0 +1,71 @@
+body{
+    font-family: 'Montserrat';
+    color: #ffffff;
+    text-align: center;
+    background-color: #000000;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.carousel-inner img{
+    width: 35%;
+}
+
+.container-fluid{
+    width: 90%;
+    padding-top: 3rem;
+}
+
+.logo-nav{
+    width: 50px;
+    height: 40px;
+}
+
+.somos{
+    background-color: #000000;
+    padding-top: 2rem;
+}
+
+.destacados{
+    background-color: #000000;
+    padding-top: 5rem;
+}
+
+.contacto{
+    background-color: #000000;
+    padding-top: 5rem;
+}
+
+.card img{
+    object-fit: cover;
+    object-position: center;
+    height: 200px;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 2em;
+}
+
+h2{
+    font-size: 30px;
+}
+
+footer-pd{
+    padding-top: 6rem;
+}
+
+hr {
+    height: 2px;
+    width: 90%;
+    background-color: #167b9e;
+  }
+
+.hr-final{
+    width: 100%;
+    background-color: #000000;
+}
